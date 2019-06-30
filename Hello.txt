@@ -1,2 +1,9 @@
-Hello World
-20190630
+# Hello World  /不要なためコメントアウト
+# 20190630     /不要なためコメントアウト
+
+
+## サンプルコード
+
+echo Hello World!!
+
+exit 
